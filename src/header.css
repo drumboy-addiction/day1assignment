@@ -1,0 +1,23 @@
+.heads
+{
+    background-color: hsla(70,50%,20%,0.2);
+    padding: 3em;
+    text-align: center;
+    margin-right: 1em;
+    margin-left: 1em;
+    border-radius: 15px;
+    
+}
+
+.heading
+{
+    font-size: 3vw;
+    font-family: Helvetica, arial, sans-serif;
+}
+
+.sub
+{
+    font-size: 0.8vw;
+    font-family: Helvetica, arial, sans-serif;
+    font-style: italic;
+}
